@@ -5,5 +5,5 @@ The repo contains docs about the new loads architecture.
 
 Overview
 
-.. image:: http://blog.ziade.org/loads.jpg
+.. image:: https://raw.githubusercontent.com/loads/docs/master/loads.jpg
 
